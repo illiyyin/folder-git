@@ -1,1 +1,1 @@
-ini text baru lagi 2
+ini text baru lagi 2 cek git diff
